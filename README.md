@@ -1,8 +1,8 @@
-# 👋 Welcome to WeKAb Tech
+# 👋 Welcome to WeKab Tech
 
 **Empowering Trainers. Connecting Opportunities.**
 
-WeKAb is a leading platform dedicated to enhancing the professional journey of trainers and training organizations. Our mission is to streamline the process of finding, offering, and managing training opportunities, making professional development more accessible and efficient.
+WeKab is a leading platform dedicated to enhancing the professional journey of trainers and training organizations. Our mission is to streamline the process of finding, offering, and managing training opportunities, making professional development more accessible and efficient.
 
 ## 🌟 What We Offer
 
